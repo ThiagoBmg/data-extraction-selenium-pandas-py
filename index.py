@@ -1,3 +1,8 @@
+# necessário instalar selenium, pandas para a execução deste código
+# python3
+# desenvolvido por Thiago Gomes https://www.linkedin.com/in/thiago-braga-martins-gomes-98b703193/
+
+
 from selenium.webdriver import Firefox
 import pandas as pd
 import time
